@@ -15,7 +15,7 @@
     <link rel="stylesheet" href="style.css">
     {{-- <link rel="stylesheet" href="style2.css"> --}}
 
-    <title>Web Sekolah</title>
+    <title>SMPN 7 Cimahi</title>
 </head>
 <script src="https://unpkg.com/feather-icons"></script>
 <body>

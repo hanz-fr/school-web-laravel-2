@@ -129,4 +129,10 @@
     margin: 1rem;
     border-radius: 0.5em;
     box-shadow: 1px 2px 50px 0px rgba(66, 181, 219, 0.466);
-  }
+}
+
+.list-group {
+    width: auto;
+    max-width: 460px;
+    margin: auto;
+}

@@ -4,7 +4,7 @@
     <div class="container marketing">
         <div class="row featurette" style="margin-top: 4em; margin-bottom: 10em">
             <div class="col-md-5 order-md-1 d-flex justify-content-center" data-aos="fade-right" data-aos-duration="1500">
-                <img src="https://cdn-2.tstatic.net/jabar/foto/bank/images/dua-remaja-mendaftar-ppdb-sma-1-bandung_20170704_112056.jpg"
+                <img src="{{ asset('storage/images/people-1.jpg') }}"
                     alt="img" width="105%" >
             </div>
             <div class="col-md-7 order-md-2 px-4" data-aos="fade-up" data-aos-duration="1500">
@@ -25,15 +25,15 @@
     <div class="container marketing">
         <div class="row row-cols-lg-3" data-aos="fade-up" data-aos-duration="1100" data-aos-once="true">
             <div class="col-md-5 order-md-1 d-flex justify-content-center py-3">
-                <img src="https://lh3.googleusercontent.com/p/AF1QipMwHjdTaqui7RUfi66bDBqMRlENdNE8YH6L9-YA=s1600-w400"
+                <img src="{{ asset('storage/images/school-2.jpg') }}"
                     alt="img" width="105%">
             </div>
             <div class="col-md-5 order-md-1 d-flex justify-content-center py-3">
-                <img src="https://cimahikota.bnn.go.id/konten/unggahan/2020/10/SMPN-7-1.jpg"
+                <img src="{{ asset('storage/images/people-2.jpg') }}"
                     alt="img" width="105%">
             </div>
             <div class="col-md-5 order-md-1 d-flex justify-content-center py-3">
-                <img src="https://lh3.googleusercontent.com/p/AF1QipOmYflXPLWv5DT9HxqjCdNVly7uZkDS_n9rURhn=s1600-w400"
+                <img src="{{ asset('storage/images/people-3.webp') }}"
                     alt="img" width="105%">
             </div>
         </div>

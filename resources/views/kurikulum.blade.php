@@ -3,7 +3,7 @@
 @section('container')
 <div class="container" style="margin-bottom: 15rem;">
     <div class="d-flex justify-content-center mt-5" data-aos="fade-left" data-aos-once="true">
-        <img src="https://kurikulum.kemdikbud.go.id/wp-content/uploads/2022/01/k13-removebg-preview-2.png" alt="img" width="50%">
+        <img src="{{ asset('storage/images/kurikulum.png') }}" alt="img" width="50%">
     </div>
     <div class="py-2 px-4 my-5" data-aos="fade-up" data-aos-once="true">
         <h1>Kurikulum SMPN 7 Cimahi</h1>
