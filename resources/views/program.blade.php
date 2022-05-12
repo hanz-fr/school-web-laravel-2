@@ -20,7 +20,7 @@
         </div>
     </div>
 
-    <div class="container marketing">
+    <div class="container marketing" style="margin-bottom: 10em">
         <div class="row row-cols-lg-3" data-aos="fade-up" data-aos-duration="1100" data-aos-once="true">
             <div class="col-md-5 order-md-1 d-flex justify-content-center py-3">
                 <img src="{{ asset('storage/images/school-2.jpg') }}"

@@ -52,14 +52,14 @@
         </div>
     </div>
     <div class=" my-md-3 ps-md-3"data-aos="fade-right" data-aos-duration="800">
-        <div class="me-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center text-white overflow-hidden" style="background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('{{ asset('storage/images/taekwondo.jpg') }}'); background-repeat: no-repeat; background-size: cover; background-position: center">
+        <div class="me-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center text-white overflow-hidden" style="background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('{{ asset('storage/images/keyboard.avif') }}'); background-repeat: no-repeat; background-size: cover; background-position: center">
             <div class="my-3" style="padding-top: 5em; padding-bottom: 5em">
                 <h2 class="display-2 fw-light">IT</h2>
             </div>
         </div>
     </div>
     <div class=" my-md-3 ps-md-3" data-aos="fade-left" data-aos-duration="800">
-        <div class="me-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center text-white overflow-hidden" style="background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('{{ asset('storage/images/sepak-bola.avif') }}'); background-repeat: no-repeat; background-size: cover; background-position: center">
+        <div class="me-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center text-white overflow-hidden" style="background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('{{ asset('storage/images/chess.avif') }}'); background-repeat: no-repeat; background-size: cover; background-position: center">
             <div class="my-3" style="padding-top: 5em; padding-bottom: 5em">
                 <h2 class="display-2 fw-light">Catur</h2>
             </div>
