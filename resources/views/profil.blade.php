@@ -160,19 +160,19 @@
           </tr>
           <tr>
             <td>Toilet Siswa Laki-laki</td>
-            <td>0</td>
+            <td>6</td>
           </tr>
           <tr>
             <td>Toilet Siswa Perempuan</td>
-            <td>0</td>
+            <td>6</td>
           </tr>
           <tr>
             <td>Toilet Siswa Umum</td>
-            <td>0</td>
+            <td>6</td>
           </tr>
           <tr>
             <td>Toilet Siswa Kecil</td>
-            <td>0</td>
+            <td>6</td>
           </tr>
           <tr>
             <td>Tipe Jamban</td>
@@ -184,7 +184,7 @@
           </tr>
           <tr>
             <td>Air Mengalir</td>
-            <td>0</td>
+            <td>1</td>
           </tr>
         </tbody>
     </table>
