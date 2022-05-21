@@ -160,15 +160,15 @@
           </tr>
           <tr>
             <td>Toilet Siswa Laki-laki</td>
-            <td>0</td>
+            <td>6</td>
           </tr>
           <tr>
             <td>Toilet Siswa Perempuan</td>
-            <td>0</td>
+            <td>6</td>
           </tr>
           <tr>
             <td>Toilet Siswa Umum</td>
-            <td>0</td>
+            <td>2</td>
           </tr>
           <tr>
             <td>Toilet Siswa Kecil</td>
