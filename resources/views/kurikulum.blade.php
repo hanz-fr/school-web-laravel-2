@@ -21,7 +21,7 @@
 
             Pemenuhan beban kerja dan penataan linieritas guru bersertifikat pendidik 
             dalam implementasi pembelajaran pada Kurikulum 2013 mengacu pada ketentuan
-             perundang-undangan.
+            perundang-undangan.
         </p>
     </div>
 </div>
