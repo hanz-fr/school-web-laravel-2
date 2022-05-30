@@ -20,5 +20,9 @@
                 class="{{ $active === 'profil' ? 'nav-link active' : 'nav-link' }}"
                 style="border-radius: 10px; font-weight: 700; {{ $active === 'profil' ? 'color: #fffff; background-color: #338BA8' : 'color: #338BA8' }}">Profil</a>
         </li>
+        <li class="nav-item"><a href="/visi-misi"
+                class="{{ $active === 'visi-misi' ? 'nav-link active' : 'nav-link' }}"
+                style="border-radius: 10px; font-weight: 700; {{ $active === 'visi-misi' ? 'color: #fffff; background-color: #338BA8' : 'color: #338BA8' }}">Visi Misi</a>
+        </li>
     </ul>
 </header>

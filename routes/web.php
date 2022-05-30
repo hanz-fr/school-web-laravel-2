@@ -42,3 +42,9 @@ Route::get('/profil', function () {
         "active" => "profil",
     ]);
 });
+
+Route::get('/visi-misi', function() {
+    return view('visi_misi', [
+        "active" => "visi-misi",
+    ]);
+});
