@@ -6,7 +6,7 @@
         <img src="{{ asset('storage/images/VisiMisi.jpg') }}" alt="img" width="50%">
     </div>
     <div class="py-2 px-4 my-5" data-aos="fade-up" data-aos-once="true">
-        <h1>Visi</h1>
+        <h1>Visi</h1> 
         <p class="fs-4"> 
             Visi SMPN 7 Cimahi adalah Menjadikan sekolah unggulan yang berbasis IT, memiliki sarana dan prasarana yang lengkap untuk menciptakan pembelajaran aktif, kreatif, efektif, dan menyenangkan (PAKEM). Mengembangkan pendidikan karakter sehingga dapat melahirkan lulusan yang berakhlak mulia dan berkualitas
         </p>

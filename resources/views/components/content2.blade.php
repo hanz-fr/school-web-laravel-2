@@ -1,23 +1,61 @@
-@extends('layouts.main')
+<div class="row g-5">
 
-@section('container')
-    <div class="container" style="margin-top: 5em; margin-bottom: 5em">
 
-        <div class="feature col">
-            <div class="feature-icon bg-primary bg-gradient">
-                <svg class="bi" width="1em" height="1em">
-                    <use xlink:href="#collection"></use>
-                </svg>
+    <div class="col-md-8">
+
+        <h3 class="pb-4 mb-4 border-bottom">
+            Profil Sekolah
+        </h3>
+
+
+        <div class="row row-cols-3 g-2">
+            <div class="col">
+                <div class="feature-icon bg-primary bg-gradient p-2 mb-2" style="width: min-content; border-radius: 12px">
+                    <i data-feather="users" class="feather-32 text-white"></i>
+                </div>
+                <h2>1026</h2>
+                <p>Siswa</p>
             </div>
-            <h2>Featured title</h2>
-            <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and
-                probably just keep going until we run out of words.</p>
-            <a href="#" class="icon-link">
-                Call to action
-                <svg class="bi" width="1em" height="1em">
-                    <use xlink:href="#chevron-right"></use>
-                </svg>
-            </a>
+
+            <div class="col">
+                <div class="feature-icon bg-primary bg-gradient p-2 mb-2" style="width: min-content; border-radius: 12px">
+                    <i data-feather="user" class="feather-32 text-white"></i>
+                </div>
+                <h2>43</h2>
+                <p>Guru</p>
+            </div>
+
+            <div class="col">
+                <div class="feature-icon bg-primary bg-gradient p-2 mb-2" style="width: min-content; border-radius: 12px">
+                    <i data-feather="clipboard" class="feather-32 text-white"></i>
+                </div>
+                <h2>27</h2>
+                <p>Kelas</p>
+            </div>
+
+            <div class="col">
+                <div class="feature-icon bg-primary bg-gradient p-2 mb-2" style="width: min-content; border-radius: 12px">
+                    <i data-feather="box" class="feather-32 text-white"></i>
+                </div>
+                <h2>1</h2>
+                <p>Jurusan</p>
+            </div>
+
+            <div class="col">
+                <div class="feature-icon bg-primary bg-gradient p-2 mb-2" style="width: min-content; border-radius: 12px">
+                    <i data-feather="book" class="feather-32 text-white"></i>
+                </div>
+                <h2>36</h2>
+                <p>Pelajaran</p>
+            </div>
+
+            <div class="col">
+                <div class="feature-icon bg-primary bg-gradient p-2 mb-2" style="width: min-content; border-radius: 12px">
+                    <i data-feather="dribbble" class="feather-32 text-white"></i>
+                </div>
+                <h2>10</h2>
+                <p>Ekskul</p>
+            </div>
         </div>
 
         {{-- First Table --}}
@@ -207,4 +245,3 @@
             </table>
         </div>
     </div>
-@endsection
